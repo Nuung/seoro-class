@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-labelledby="title desc">
   <title id="title">앞으로 만들 서로교실 이용 흐름</title>
-  <desc id="desc">앞으로 만들 이용 흐름이다. 아이 이해하기, 교실 꾸리기, 함께 대화하기, 돌아보기 순서로 진행하고 돌아본 경험은 다음 교실에 반영한다. 실제 아이들과의 만남은 아이와 보호자가 원할 때 별도 검토하는 선택 단계이다.</desc>
+  <desc id="desc">앞으로 만들 흐름은 아이 이해하기, 교실 꾸리기, 함께 대화하기, 돌아보기 순서이며 돌아본 경험은 다음 교실에 반영합니다. 실제 아이들과의 만남은 아이와 보호자가 원할 때 별도 검토하는 선택 단계입니다.</desc>
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#58756D" stroke-width="2"/></marker>
     <style>
@@ -14,7 +14,7 @@
     </style>
   </defs>
   <rect width="1120" height="620" rx="24" fill="#FFFCF5"/>
-  <text x="36" y="56" class="heading">아이의 속도로, 함께 돌아보는 교실</text>
+  <text x="36" y="56" class="heading">서로교실의 네 단계와 선택 단계</text>
   <text x="36" y="88" class="muted">앞으로 만들 이용 흐름</text>
   <g>
     <rect x="30" y="124" width="320" height="166" rx="20" fill="#E6F3EE" stroke="#B1D5C7"/>
