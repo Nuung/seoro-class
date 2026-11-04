@@ -11,6 +11,12 @@ repos:
       - id: check-yaml
       - id: check-toml
       - id: check-added-large-files
+        exclude: ^docs/assets/classroom-(concept|storyboard)\.png$
+      # 생성 일러스트 두 개만 3 MiB까지 허용하고, 나머지는 기본 제한을 유지합니다.
+      - id: check-added-large-files
+        name: 콘셉트 일러스트 크기 검사
+        files: ^docs/assets/classroom-(concept|storyboard)\.png$
+        args: [--maxkb=3072, --enforce-all]
       - id: check-merge-conflict
       - id: end-of-file-fixer
       - id: trailing-whitespace
