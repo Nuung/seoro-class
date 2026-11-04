@@ -1,7 +1,7 @@
 [project]
 name = "seoro-class"
 version = "0.1.0"
-description = "Add your description here"
+description = "발달장애 아동을 위한 AI 또래 사회성 교육 콘셉트와 리서치"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
