@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-labelledby="title desc">
-  <title id="title">서로교실 이용 흐름 구상</title>
-  <desc id="desc">아직 구현되지 않은 구상이다. 아이 이해하기, 교실 꾸리기, 함께 대화하기, 돌아보기 순서로 진행하고 돌아본 경험은 다음 교실에 반영한다. 실제 아이들과의 만남은 아이와 보호자가 원할 때 별도 검토하는 선택 단계이며 효과는 미정이다.</desc>
+  <title id="title">앞으로 만들 서로교실 이용 흐름</title>
+  <desc id="desc">앞으로 만들 이용 흐름이다. 아이 이해하기, 교실 꾸리기, 함께 대화하기, 돌아보기 순서로 진행하고 돌아본 경험은 다음 교실에 반영한다. 실제 아이들과의 만남은 아이와 보호자가 원할 때 별도 검토하는 선택 단계이다.</desc>
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#58756D" stroke-width="2"/></marker>
     <style>
@@ -15,7 +15,7 @@
   </defs>
   <rect width="1120" height="620" rx="24" fill="#FFFCF5"/>
   <text x="36" y="56" class="heading">아이의 속도로, 함께 돌아보는 교실</text>
-  <text x="36" y="88" class="muted">이용 흐름 구상 · 아직 구현되지 않았습니다</text>
+  <text x="36" y="88" class="muted">앞으로 만들 이용 흐름</text>
   <g>
     <rect x="30" y="124" width="320" height="166" rx="20" fill="#E6F3EE" stroke="#B1D5C7"/>
     <circle cx="64" cy="158" r="18" fill="#28776C"/><text x="64" y="165" text-anchor="middle" class="number">01</text>
@@ -51,7 +51,7 @@
     <text x="706" y="418" class="muted">선택 · 별도 검토</text>
     <text x="706" y="466" class="label">실제 아이들과 만나기</text>
     <text x="706" y="506" class="body">아이와 보호자의 희망을 전제로</text>
-    <text x="706" y="534" class="body">운영 방식과 효과는 아직 미정</text>
+    <text x="706" y="534" class="body">운영 방식은 별도 설계</text>
   </g>
-  <text x="36" y="591" class="muted">점선은 선택 단계입니다. 이 흐름은 교육 효과나 실제 관계 개선을 보장하지 않습니다.</text>
+  <text x="36" y="591" class="muted">점선은 아이와 보호자가 원할 때 별도로 검토하는 선택 단계입니다.</text>
 </svg>
