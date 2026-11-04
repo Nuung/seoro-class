@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-labelledby="title desc">
+  <title id="title">서로교실 이용 흐름 구상</title>
+  <desc id="desc">아직 구현되지 않은 구상이다. 아이 이해하기, 교실 꾸리기, 함께 대화하기, 돌아보기 순서로 진행하고 돌아본 경험은 다음 교실에 반영한다. 실제 아이들과의 만남은 아이와 보호자가 원할 때 별도 검토하는 선택 단계이며 효과는 미정이다.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#58756D" stroke-width="2"/></marker>
+    <style>
+      text{font-family:"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif}
+      .heading{font-size:30px;font-weight:700;fill:#183D37}
+      .muted{font-size:19px;fill:#52685F}
+      .label{font-size:26px;font-weight:700;fill:#183D37}
+      .body{font-size:21px;fill:#3E5A50}
+      .number{font-size:19px;font-weight:700;fill:#FFFFFF}
+      .path{fill:none;stroke:#58756D;stroke-width:2.5;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1120" height="620" rx="24" fill="#FFFCF5"/>
+  <text x="36" y="56" class="heading">아이의 속도로, 함께 돌아보는 교실</text>
+  <text x="36" y="88" class="muted">이용 흐름 구상 · 아직 구현되지 않았습니다</text>
+  <g>
+    <rect x="30" y="124" width="320" height="166" rx="20" fill="#E6F3EE" stroke="#B1D5C7"/>
+    <circle cx="64" cy="158" r="18" fill="#28776C"/><text x="64" y="165" text-anchor="middle" class="number">01</text>
+    <text x="56" y="211" class="label">아이 이해하기</text>
+    <text x="56" y="250" class="body">말하기 특성과 관심사 살피기</text>
+  </g>
+  <g>
+    <rect x="400" y="124" width="320" height="166" rx="20" fill="#E6F0F8" stroke="#B8CDDF"/>
+    <circle cx="434" cy="158" r="18" fill="#527E9A"/><text x="434" y="165" text-anchor="middle" class="number">02</text>
+    <text x="426" y="211" class="label">교실 꾸리기</text>
+    <text x="426" y="250" class="body">AI 또래의 대화 특성 구성하기</text>
+  </g>
+  <g>
+    <rect x="770" y="124" width="320" height="166" rx="20" fill="#FFF0DE" stroke="#E5CAAA"/>
+    <circle cx="804" cy="158" r="18" fill="#A16729"/><text x="804" y="165" text-anchor="middle" class="number">03</text>
+    <text x="796" y="211" class="label">함께 대화하기</text>
+    <text x="796" y="250" class="body">말·그림·버튼과 충분한 기다림</text>
+  </g>
+  <path class="path" d="M358 207 H390"/>
+  <path class="path" d="M728 207 H760"/>
+  <path class="path" d="M930 298 V321 Q930 335 916 335 H429 Q415 335 415 349 V370"/>
+  <g>
+    <rect x="240" y="380" width="350" height="170" rx="20" fill="#E6F3EE" stroke="#B1D5C7"/>
+    <circle cx="274" cy="414" r="18" fill="#28776C"/><text x="274" y="421" text-anchor="middle" class="number">04</text>
+    <text x="266" y="466" class="label">돌아보기</text>
+    <text x="266" y="501" class="body">아이와 어른이 경험을 살피고</text>
+    <text x="266" y="529" class="body">다음 교실에 반영하기</text>
+  </g>
+  <path class="path" d="M600 466 H668" stroke-dasharray="6 6"/>
+  <text x="634" y="447" text-anchor="middle" class="muted">원할 때</text>
+  <g>
+    <rect x="680" y="380" width="410" height="170" rx="20" fill="#F0EBFA" stroke="#8F7CA9" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="706" y="418" class="muted">선택 · 별도 검토</text>
+    <text x="706" y="466" class="label">실제 아이들과 만나기</text>
+    <text x="706" y="506" class="body">아이와 보호자의 희망을 전제로</text>
+    <text x="706" y="534" class="body">운영 방식과 효과는 아직 미정</text>
+  </g>
+  <text x="36" y="591" class="muted">점선은 선택 단계입니다. 이 흐름은 교육 효과나 실제 관계 개선을 보장하지 않습니다.</text>
+</svg>
